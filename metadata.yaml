@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9433
     wikipedia: http://en.wikipedia.org/wiki/Mary_Antin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40535#They-Who-Knock-at-Our-GatesA-Complete-Gospel-of-Immigration
 gutenberg_issued: '2012-08-19'
 gutenberg_type: Text
 identifiers:
