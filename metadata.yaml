@@ -1,0 +1,38 @@
+_repo: They-Who-Knock-at-Our-GatesA-Complete-Gospel-of-Immigration_40535
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stella, Joseph
+    alias: Stella, Giuseppe Carlo
+    birthdate: 1877
+    deathdate: 1946
+    gutenberg_agent_id: '40679'
+    url: http://www.gutenberg.org/2009/agents/40679
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Antin, Mary
+    alias: Grabau, Mary Antin
+    birthdate: 1881
+    deathdate: 1949
+    gutenberg_agent_id: '9433'
+    url: http://www.gutenberg.org/2009/agents/9433
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Antin
+description: ''
+gutenberg_issued: '2012-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40535'
+  lccn: '14009103'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JV'
+- !lcsh 'United States -- Emigration and immigration'
+- !lcsh 'Aliens -- United States'
+title: 'They Who Knock at Our Gates: A Complete Gospel of Immigration'
+url: http://www.gutenberg.org/ebooks/40535
